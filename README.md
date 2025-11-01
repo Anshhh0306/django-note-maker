@@ -18,3 +18,5 @@ USERNAME = anshu
 
 PASSWORD = 12345
 
+*to change the username or password you can just simply go to **note maker** --> **notes** folder --> **views.py** and there you will see hardcoded username and password and can change it easily to your liking!*
+
