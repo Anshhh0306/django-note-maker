@@ -13,6 +13,8 @@ python manage.py runserver
 ## THE USERNAME AND PASSWORD-
 
 **Hardcoded credentials**
+
 USERNAME = anshu
+
 PASSWORD = 12345
 
